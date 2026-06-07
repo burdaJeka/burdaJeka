@@ -14,7 +14,21 @@
 
 ### About
 
-I build reliable products end to end, with a strong bias for maintainable systems and polished developer experience.
+👋 Hi, I'm a versatile IT professional bridging the gap between hardware, infrastructure, and software development.
+
+With a solid foundation in managing complex data center environments, enterprise virtualization, and system administration, I understand how systems operate at their core. My approach is holistic: I don't just write code; I architect the resilient environments needed for that code to scale and perform flawlessly.
+
+My core focus areas include:
+
+🏢 Infrastructure & System Administration: Designing, maintaining, and securing highly available server environments and complex network topologies.
+
+⚙️ DevOps & Automation: Transforming manual operations into automated workflows. I build infrastructure as code, optimize deployment pipelines, and implement comprehensive monitoring and backup strategies across diverse platforms.
+
+💻 Full-Stack Development: Building fast, scalable, and modern web applications from the database architecture to the user interface.
+
+I thrive on solving complex architectural challenges and am always exploring new technologies to improve system reliability and development speed.
+
+⚡ Currently open to remote freelance/contract opportunities where I can apply my hybrid hardware-to-code expertise to deliver end-to-end technical solutions.
 
 - ⌖ **Location** · Kyiv
 - ⌗ **Experience** · 5+ years in IT
@@ -29,7 +43,7 @@ I build reliable products end to end, with a strong bias for maintainable system
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap&theme=dark" alt="Frontend"/>
 
 **Backend & Databases**
 
