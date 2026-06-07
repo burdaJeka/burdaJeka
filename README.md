@@ -25,32 +25,24 @@ I build reliable products end to end, with a strong bias for maintainable system
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,python&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,js,cs,java,html,css,bash&theme=dark" alt="Languages"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap&theme=dark" alt="Frontend"/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma&theme=dark" alt="Backend & Databases"/>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,express,mongodb,mysql,prisma,redis&theme=dark" alt="Backend & Databases"/>
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,vercel,githubactions&theme=dark" alt="DevOps & Cloud"/>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,nginx&theme=dark" alt="DevOps & Cloud"/>
 
 ### Languages
 - 🇬🇧 **English** · ![Conversational](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square)
 - 🌐 **Ukrainian** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
 - 🇷🇺 **Russian** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=burdaJeka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Yevhen stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burdaJeka&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Yevhen top languages"/>
-
-</div>
 
 ---
 
